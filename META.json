@@ -2,7 +2,7 @@
 	"name": "vector",
 	"abstract": "Open-source vector similarity search for Postgres",
 	"description": "Supports L2 distance, inner product, and cosine distance",
-	"version": "0.4.0.1",
+	"version": "0.4.0",
 	"maintainer": [
 		"Andrew Kane <andrew@ankane.org>"
 	],
@@ -30,8 +30,8 @@
 			"web": "https://github.com/pgvector/pgvector/issues"
 		},
 		"repository": {
-			"url":  "https://github.com/pgvector/pgvector.git",
-			"web":  "https://github.com/pgvector/pgvector",
+			"url": "https://github.com/pgvector/pgvector.git",
+			"web": "https://github.com/pgvector/pgvector",
 			"type": "git"
 		}
 	},
